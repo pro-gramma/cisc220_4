@@ -1,3 +1,4 @@
+#James Neverson 101993581
 mystring.o: mystring.c mystring.h
 	gcc -Wall -c mystring.c
 
