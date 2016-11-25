@@ -1,3 +1,4 @@
+/*James Neverson 10193581*/
 #ifndef MYSTRING_H
 #define MYSTRING_H
 char* safestrcat( char *a, char *b );
