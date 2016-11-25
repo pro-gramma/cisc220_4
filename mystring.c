@@ -1,3 +1,4 @@
+/*James Neverson 10193581*/
 #include <stdio.h>
 #include <string.h>
 char* safestrcat( char *a, char *b ) {
