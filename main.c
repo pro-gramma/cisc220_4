@@ -1,3 +1,4 @@
+/*James Neverson 10193581*/
 #include "mystring.h"
 int main() {
 	char* hello;
