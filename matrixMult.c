@@ -1,3 +1,4 @@
+/*James Neverson 10193581*/
 #include <stdio.h>
 void scan_handle( int scan ) {
 	if ( scan < 0 ) {
